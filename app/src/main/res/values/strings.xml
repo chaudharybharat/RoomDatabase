@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="edit_student_title">Edit Student</string>
+    <string name="add_student_title">Add Student</string>
+
+    <string name="error_save_student">Error with saving Student</string>
+    <string name="save_student">Student saved</string>
+
+    <string name="error_update_student">Error with updating Student</string>
+    <string name="update_student">Student updated</string>
+
+    <string name="error_delete_student">Error with deleting Student</string>
+    <string name="delete_student">Student deleted</string>
+</resources>
