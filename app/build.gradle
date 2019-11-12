@@ -43,4 +43,9 @@ dependencies {
     implementation 'android.arch.lifecycle:extensions:1.0.0'
     annotationProcessor "android.arch.lifecycle:compiler:1.0.0"
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
+
+    //import export db
+    implementation files('libs/opencsv-2.3.jar')
+
+
 }
